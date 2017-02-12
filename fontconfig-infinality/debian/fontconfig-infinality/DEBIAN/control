@@ -1,0 +1,12 @@
+Package: fontconfig-infinality
+Version: 1-2
+Architecture: all
+Maintainer: Xiao-Long Chen <chenxiaolong@cxl.epac.to>
+Installed-Size: 475
+Depends: freetype-infinality
+Section: fonts
+Priority: extra
+Homepage: http://www.infinality.net
+Description: Configuration files for freetype-infinality
+ This package include FreeType2 configuration files for modifying settings
+ provided by the infinality patches.
